@@ -1,0 +1,22 @@
+.search{
+    position: absolute;
+    top: 35px;
+    left: 25%;
+    width: 40vw;
+}
+
+
+.search >h2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 556px;
+    padding: 10px;
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    top: 337px;
+}
+Button{
+    margin-top: 30px;
+}

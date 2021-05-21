@@ -1,0 +1,61 @@
+.banner{
+    height: 50vh;
+position: relative;
+}
+.banner_info{
+    background-color: black;
+    color: white;
+    padding: 11vh 50px 50px 30px;
+width: 300px;
+position: absolute;
+top: 27px;
+}
+
+.banner_info>button{
+    background-color: tomato;
+    color: white;
+text-transform: inherit;
+margin-top: 20px;
+font-weight: 600;
+}
+.banner_info>h5{
+    margin: 10px;
+}
+.banner_info>button:hover{
+    background-color: white;
+    color: tomato;
+}
+
+.banner_searchButton{
+    background-color: white;
+    font-weight: 900;
+    text-transform: inherit;
+    color: tomato;
+}
+
+.banner_search{
+    display: flex;
+    position: absolute;
+    top: 0px;
+    flex-direction: column;
+    width: 100%;
+    color: tomato;
+    background-color: white;
+}
+#one{
+    color: tomato;
+}
+
+.banner_flow{
+   
+    position: relative;
+    height: 50vh;
+}
+.banner img{
+    width: 98.8vw;
+    position: relative;
+    height: 60vh;
+}
+.banner{
+    position: relative;
+}
